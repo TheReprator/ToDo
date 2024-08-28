@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="todo_search">Search todo</string>
+    <string name="todo_emptyList">Press the + button to add a TODO item</string>
+
+</resources>

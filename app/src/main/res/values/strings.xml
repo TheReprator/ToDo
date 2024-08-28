@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidTemplate</string>
+    <string name="error_alert_failed_add">Failed to add TODO.</string>
+    <string name="dialog_ok">Ok</string>
+</resources>
