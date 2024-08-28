@@ -67,6 +67,7 @@ class CreateTodoViewModel @Inject constructor(
             viewModelScope.mainBlock(dispatchers) {
                 _isError.send(e.localizedMessage.orEmpty())
                 delay(CONSTANT_3SECONDS)
+                _createToDo.value = TextFieldValue()
                 _shouldNavigateBack.send(true)
             }
         }
